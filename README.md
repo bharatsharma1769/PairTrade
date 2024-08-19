@@ -1,4 +1,4 @@
-The Pairs Trading strategy is a market-neutral strategy hat focuses on two highly correlated assets, usually 
+The Pairs Trading strategy is a market-neutral strategy that focuses on two highly correlated assets, usually 
 in the same industry. We try to model the relation between the spread of the two stocks and whenever the prices 
 deviate from the mean, we go long on one stock and short on the other speculating for the prices to converge due to
 the mean reversion theory.
